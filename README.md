@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![Sunny's github stats](https://github-readme-stats.vercel.app/api?username=sunnyhasija)](https://github.com/sunnyhasija/github-readme-stats)
 
 <!--
